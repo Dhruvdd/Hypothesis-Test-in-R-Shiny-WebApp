@@ -1,6 +1,22 @@
 # Hypothesis-Test-in-R-Shiny-WebApp
 A shiny web-app about One Sample T-test.
 
+<strong>What is the one-sample t-test?</strong>
+
+The one-sample t-test is a statistical hypothesis test used to determine whether an unknown population mean is different from a specific value.
+This test can use the test for continuous data.
+
+The One Sample t Test can only compare a single sample mean to a specified constant. It can not compare sample means between two or more groups.
+
+<strong> Hypotheses </strong>
+
+The null hypothesis (H0) and (two-tailed) alternative hypothesis (H1) of the one sample T test can be expressed as:
+
+H0: µ =  µ0  ("the population mean is equal to the [proposed] population mean")
+H1: µ ≠  µ0  ("the population mean is not equal to the [proposed] population mean")
+
+where µ is the "true" population mean and µ0 is the proposed value of the population mean.
+
 It check whether it is one tail T-test by the confidence level.
 
 
